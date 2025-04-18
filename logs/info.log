@@ -1,0 +1,38 @@
+2025-04-16T15:14:00.926Z :- INFO   : MongoDB disconnected 😢
+2025-04-16T15:15:20.095Z :- INFO   : MongoDB connected successfully 😍
+2025-04-16T15:15:20.112Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-16T15:51:29.658Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T15:51:29.660Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-16T15:53:42.187Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T15:53:42.189Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-16T16:00:47.656Z :- INFO   : MongoDB connected successfully 😍
+2025-04-16T16:00:47.673Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-16T16:08:45.575Z :- INFO   : MongoDB connected successfully 😍
+2025-04-16T16:08:45.588Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-16T16:16:19.907Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T16:16:19.911Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-16T20:28:23.226Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T09:57:39.534Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T13:55:44.149Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T14:57:33.890Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T14:57:33.901Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-17T15:03:59.522Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:04:19.179Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:04:19.189Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-17T15:20:39.940Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-17T15:20:39.942Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-17T15:29:36.749Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-17T15:29:36.750Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-17T15:30:49.959Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:31:04.911Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:31:04.922Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-17T15:34:32.121Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:34:32.132Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-17T15:58:23.349Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:58:40.649Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:58:40.667Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-17T21:24:45.488Z :- INFO   : MongoDB disconnected 😢
+2025-04-18T04:01:31.710Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-18T04:02:44.320Z :- INFO   : MongoDB connected successfully 😍
+2025-04-18T04:02:44.333Z :- INFO   : Cart Service is running on port 8002🚀
+2025-04-18T10:43:31.643Z :- INFO   : MongoDB disconnected 😢

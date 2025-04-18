@@ -1,0 +1,11 @@
+2025-04-16T15:14:00.940Z :- ERROR  : MongoDB connection error 😢: connect ECONNREFUSED ::1:27017
+2025-04-16T15:51:29.658Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T15:51:29.660Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-16T15:53:42.187Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T15:53:42.189Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-16T16:16:19.907Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-16T16:16:19.911Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-17T15:20:39.940Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-17T15:20:39.942Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
+2025-04-17T15:29:36.749Z :- ERROR  : Error fetching product details: getaddrinfo ENOTFOUND product-service
+2025-04-17T15:29:36.750Z :- ERROR  : Error adding to cart: Failed to connect to Product Service
